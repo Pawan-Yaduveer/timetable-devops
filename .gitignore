@@ -1,0 +1,5 @@
+# Ignore node modules and build files
+**/node_modules/
+**/build/
+*.log
+*.env
