@@ -1,0 +1,59 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.course-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.course-form input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.course-form button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.course-form button:hover {
+  background-color: #2980b9;
+}
+
+.course-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.course-list li {
+  background: #ecf0f1;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,5 @@
+com/example/timetable/model/Timetable.class
+com/example/timetable/TimetableApplication.class
+com/example/timetable/controller/TimetableController.class
+com/example/timetable/model/Course.class
+com/example/timetable/model/TimeSlot.class

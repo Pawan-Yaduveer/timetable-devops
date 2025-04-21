@@ -1,0 +1,5 @@
+/home/ubuntu/time-table-backend/src/main/java/com/example/timetable/controller/TimetableController.java
+/home/ubuntu/time-table-backend/src/main/java/com/example/timetable/TimetableApplication.java
+/home/ubuntu/time-table-backend/src/main/java/com/example/timetable/model/TimeSlot.java
+/home/ubuntu/time-table-backend/src/main/java/com/example/timetable/model/Course.java
+/home/ubuntu/time-table-backend/src/main/java/com/example/timetable/model/Timetable.java
